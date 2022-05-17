@@ -1,4 +1,4 @@
 package fisei.uta.prueba_jessicamaliza;
 
-public class Pantalla3 {
+public class ActivityPantalla2 {
 }
