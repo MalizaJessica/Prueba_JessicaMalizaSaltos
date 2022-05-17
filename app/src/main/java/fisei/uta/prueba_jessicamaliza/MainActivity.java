@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
     EditText editTextPotencia;
     Button button_Siguiente;
     Button button_MostrarResultados;
+    //
+
     ///realizamos el metodo
 
     //OBTENER LOS DATOS  ENVIADOS AL CERRAR LA ACTIVIDAD (DESDE ATRAS-ADELANTE )
@@ -53,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
         editTextExponente=findViewById(R.id.editTextExponente);
          editTextFactorial=findViewById(R.id.editTextFactorial);
         editTextPotencia=findViewById(R.id.editTextPotencia);
+        button_Siguiente = findViewById(R.id.button_Siguiente);
 
     }
     public void OnClickSiguiente(View view){
